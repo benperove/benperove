@@ -2,7 +2,7 @@
 
 ## 🚀 DevOps/SRE/Multi-cloud Platforms Engineer | 🚴‍♂️ Road Cycling Enthusiast
 
-> Building scalable infrastructure by day, crushing Strava segments by night
+> Building scalable infrastructure by day, crushing Strava segments when AFK
 
 ### 💡 About Me
 - 🏗️ Principal DevOps engineer specializing in multi-cloud platform engineering
